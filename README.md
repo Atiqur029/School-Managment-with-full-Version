@@ -1,5 +1,5 @@
 output:
-![Screenshot_2022_1211_173227](https://user-images.githubusercontent.com/114304729/226088512-72362ba0-3607-4f23-9b60-048519532e76.jpg)
+
 
 # schollapp
 
