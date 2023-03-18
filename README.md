@@ -1,7 +1,4 @@
 output:
-![Screenshot_2023_0317_095916](https://user-images.githubusercontent.com/114304729/226089296-4d59a463-c022-41ce-b0f2-cc6f78f67818.jpg)
-![Screenshot_2023_0317_210541](https://user-images.githubusercontent.com/114304729/226089310-da229adf-9fdb-489f-8060-ebd8958a0024.jpg)
-
 
 
 # schollapp
